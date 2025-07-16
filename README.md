@@ -20,7 +20,7 @@
 
   <section class="hero">
     <h1>Дитячий стіл + стілець для творчості та навчання</h1>
-    <img src="PHOTO_URL" alt="Набір дитячий стіл та стілець">
+    "Набір дитячий стіл та стілець">
   </section>
 
   <section class="content">
