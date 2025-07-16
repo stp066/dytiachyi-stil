@@ -1,5 +1,4 @@
-# dytiachyi-stil
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="uk">
 <head>
   <meta charset="UTF‑8">
